@@ -1,0 +1,36 @@
+*{
+  background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/HOX7rov7iorrrmav/star-wars-starburst-hyper-space-effect_rse18xtu__F0000.png");
+  color:white;
+
+}
+header{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+main{
+  width:80%;
+  height:80%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right:auto;
+  margin-left: auto;
+}
+main button{
+  
+  font-size: 30px;
+  color:white;
+  font-weight: bold;
+  
+  border: 1px solid gold;
+  
+}
+main button:hover{
+  
+  background: rgba(231, 199, 18, 0.884);
+
+
+}
